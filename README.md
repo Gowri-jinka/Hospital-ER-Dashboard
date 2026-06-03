@@ -1,4 +1,4 @@
-# 🏥 Hospital Patient Analytics Dashboard
+<img width="1132" height="647" alt="image" src="https://github.com/user-attachments/assets/b6fb66b9-4c44-4a70-910a-b3a26bb902b8" /># 🏥 Hospital Patient Analytics Dashboard
 
 ## 📌 Project Overview
 
@@ -138,11 +138,23 @@ Hospital-Patient-Analytics-Dashboard/
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Screenshots
 
-(Add dashboard screenshot here)
+### 1️⃣ Dashboard Overview
+
+<img width="1132" height="647" alt="image" src="https://github.com/user-attachments/assets/d29b173b-6d88-4473-8b40-d6b19f59355b" />
+
+
+The Hospital Patient Analytics Dashboard provides a centralized view of key hospital metrics and patient-related insights. The dashboard includes KPI cards, department referral analysis, patient gender distribution, monthly patient trends, satisfaction analysis, and detailed patient records. Interactive visualizations help users quickly understand hospital performance and patient statistics.
 
 ---
+
+### 2️⃣ Dashboard with Applied Filters
+
+<img width="1138" height="647" alt="Screenshot 2026-06-02 132412" src="https://github.com/user-attachments/assets/a698f8b3-11fa-42b1-8599-c2b907df8f50" />
+
+
+The dashboard supports interactive filtering through slicers such as Patient Name, Patient Age, Department Referral, and Month. Users can dynamically filter data to perform detailed analysis, identify specific trends, and gain deeper insights into patient records and hospital operations. The filtered view enables efficient exploration of data based on user-selected criteria.
 
 ## 🚀 Business Value
 
