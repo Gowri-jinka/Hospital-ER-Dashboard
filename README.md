@@ -1,5 +1,3 @@
-<img width="1132" height="647" alt="image" src="https://github.com/user-attachments/assets/b6fb66b9-4c44-4a70-910a-b3a26bb902b8" /># 🏥 Hospital Patient Analytics Dashboard
-
 ## 📌 Project Overview
 
 The Hospital Patient Analytics Dashboard is an interactive Power BI dashboard developed to analyze hospital patient data and provide meaningful insights into patient demographics, referrals, satisfaction levels, waiting times, and monthly patient trends.
